@@ -1,1 +1,1 @@
-PODGLĄD PROJEKTU: https://nikolamat99.github.io/BORDER/
+PROJECT PREVIEW: https://nikolamat99.github.io/BORDER/
